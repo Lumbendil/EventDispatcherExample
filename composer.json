@@ -1,0 +1,17 @@
+{
+    "name": "lumbendil/event-dispatcher-example",
+    "description": "An example of usage of the Event Dispatcher Symfony Component",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "require": {
+        "symfony/event-dispatcher": "~2.3"
+    },
+    "authors": [
+        {
+            "name": "Roger Llopart Pla",
+            "email": "lumbendil@gmail.com"
+        }
+    ]
+}
